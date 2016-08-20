@@ -11,6 +11,8 @@ package primeiro;
  */
 public class Primeiro {
 
+    private String teste;
+
     /**
      * @param args the command line arguments
      */
@@ -36,7 +38,7 @@ public class Primeiro {
               +"Quero que saiba que os melhores dias de minha vida \n"
               +"tem sido ao seu lado! \n"
               + "Voce me faz muito feliz!!!\n"
-              + "Te amo!!!!");
+              + "Te amo!!!!"); tu
       
       */
       
