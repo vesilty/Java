@@ -7,7 +7,7 @@ package primeiro;
 
 /**
  *
- * @author Veruska e Markinhos
+ * @author Veruska e Marcao
  */
 public class Primeiro {
 
