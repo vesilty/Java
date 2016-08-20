@@ -11,6 +11,8 @@ package primeiro;
  */
 public class Primeiro {
 
+    private String teste;
+
     /**
      * @param args the command line arguments
      */
